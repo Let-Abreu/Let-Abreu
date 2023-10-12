@@ -3,7 +3,7 @@
 ## I'm a Biologist and Data Science student!
 - :books: I'm currently learning SQL, R and PowerBI
 - :bar_chart: I’m interested in working with data analysis and data science
-- :hearts: My passion is telling a captivating stories through data
+- :hearts: My passion is telling captivating stories through data
 
 ## Connect with me:
 
