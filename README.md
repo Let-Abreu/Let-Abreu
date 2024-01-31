@@ -12,7 +12,7 @@
 
 ## Languages and Tools
 
-<img aling="left" alt="PowerBI" width="26px" src="https://cdn.simpleicons.org/powerbi"/> <img aling="left" alt="Excel" width="26px" src="https://cdn.simpleicons.org/microsoftexcel"/><img aling="left" alt="SQLite" width="26px" src="https://cdn.simpleicons.org/sqlite"/>
+<img aling="left" alt="PowerBI" width="26px" src="https://cdn.simpleicons.org/powerbi"/> <img aling="left" alt="Excel" width="26px" src="https://cdn.simpleicons.org/microsoftexcel"/> <img aling="left" alt="SQLite" width="26px" src="https://cdn.simpleicons.org/sqlite"/>
 
 [linkedin]: https://www.linkedin.com/in/leticiafeabreu/
 [instagram]: https://www.instagram.com/letfeabreu/
